@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/profilecard-repository/static/css/main.22fcdbe7.chunk.css",
+    "main.js": "/profilecard-repository/static/js/main.d9b9727f.chunk.js",
+    "main.js.map": "/profilecard-repository/static/js/main.d9b9727f.chunk.js.map",
+    "runtime-main.js": "/profilecard-repository/static/js/runtime-main.28ab3c9a.js",
+    "runtime-main.js.map": "/profilecard-repository/static/js/runtime-main.28ab3c9a.js.map",
+    "static/js/2.86ad33dc.chunk.js": "/profilecard-repository/static/js/2.86ad33dc.chunk.js",
+    "static/js/2.86ad33dc.chunk.js.map": "/profilecard-repository/static/js/2.86ad33dc.chunk.js.map",
+    "static/js/3.896ba09f.chunk.js": "/profilecard-repository/static/js/3.896ba09f.chunk.js",
+    "static/js/3.896ba09f.chunk.js.map": "/profilecard-repository/static/js/3.896ba09f.chunk.js.map",
+    "index.html": "/profilecard-repository/index.html",
+    "static/css/main.22fcdbe7.chunk.css.map": "/profilecard-repository/static/css/main.22fcdbe7.chunk.css.map",
+    "static/js/2.86ad33dc.chunk.js.LICENSE.txt": "/profilecard-repository/static/js/2.86ad33dc.chunk.js.LICENSE.txt",
+    "static/media/Hamtaro-Pic-2.e897edb8.jpg": "/profilecard-repository/static/media/Hamtaro-Pic-2.e897edb8.jpg",
+    "static/media/Like-Button.62aadf76.png": "/profilecard-repository/static/media/Like-Button.62aadf76.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.28ab3c9a.js",
+    "static/js/2.86ad33dc.chunk.js",
+    "static/css/main.22fcdbe7.chunk.css",
+    "static/js/main.d9b9727f.chunk.js"
+  ]
+}
